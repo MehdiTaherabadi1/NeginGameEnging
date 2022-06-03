@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Negin", "Negin\Negin.vcxproj", "{3C89E1C7-43F5-4177-BD4E-434D4B2BDEE1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SandBox", "SandBox\SandBox.vcxproj", "{10BCE73C-0339-4A35-A2A4-4F355229BCD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C89E1C7-43F5-4177-BD4E-434D4B2BDEE1}.Debug|x64.ActiveCfg = Debug|x64
+		{3C89E1C7-43F5-4177-BD4E-434D4B2BDEE1}.Debug|x64.Build.0 = Debug|x64
+		{3C89E1C7-43F5-4177-BD4E-434D4B2BDEE1}.Release|x64.ActiveCfg = Release|x64
+		{3C89E1C7-43F5-4177-BD4E-434D4B2BDEE1}.Release|x64.Build.0 = Release|x64
+		{10BCE73C-0339-4A35-A2A4-4F355229BCD5}.Debug|x64.ActiveCfg = Debug|x64
+		{10BCE73C-0339-4A35-A2A4-4F355229BCD5}.Debug|x64.Build.0 = Debug|x64
+		{10BCE73C-0339-4A35-A2A4-4F355229BCD5}.Release|x64.ActiveCfg = Release|x64
+		{10BCE73C-0339-4A35-A2A4-4F355229BCD5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E763BA5-1EE5-43C4-8980-F7D100B6F90F}
+	EndGlobalSection
+EndGlobal
